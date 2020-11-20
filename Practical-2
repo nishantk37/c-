@@ -1,3 +1,5 @@
+// Print the number entered by the user//
+
 #include <iostream>
 using namespace std;
 
@@ -10,7 +12,7 @@ using namespace std;
     cout<<" Enter an integer:"; 
     cin>>number; 
 
-    cout<<"You entered"<<number;	
+    cout<<"The number you  entered is:"<<number;	
 
    return 0;
 
