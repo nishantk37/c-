@@ -9,15 +9,15 @@ int main()
 { 
 
     int x, y, sum;
-    cout<<" Enter first no :"; 
+    cout<<" Enter first number:"; 
     
     cin>>x; 
-    cout<<" Enter second no :"; 
+    cout<<" Enter second number:"; 
 
     cin>>y; 
     sum= x+y; 
  
-    cout<<"\nSum="<<sum; 
+    cout<<"\nSum="<<addition of two numbers is:; 
   
     
    return 0;
