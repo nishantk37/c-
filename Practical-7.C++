@@ -6,8 +6,8 @@ using namespace std;
 
 class Student {
 public:
-   int RollNo; 
-   string STDName; 
+   int rollNo; 
+   string stdName; 
    string Branch; 
  }; 
 
